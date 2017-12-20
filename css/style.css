@@ -130,7 +130,7 @@ section {
 -------------------------------------------------------------- */
 header {
   width: 100%;
-  height: 150px;
+  height: 160px;
   overflow: hidden;
   position: fixed;
   top: 0;
@@ -241,6 +241,6 @@ header {
     border-bottom: solid 1px #0793e2; } }
 
 Logo {
-align-self: flex-start;: 
+align-self: flex-start;:
 
 }
